@@ -65,7 +65,7 @@ This project addresses the challenge of making vision testing accessible, standa
 - Achieves consistent acuity scoring similar to traditional Snellen/optometric tests.
 - Validated for working in varying lighting conditions with high accuracy via YuNet.
 - All screen calibration and distance estimation handled without external tools.
-- 
+
 ---
 
 ## 👨‍💻 Contributors
